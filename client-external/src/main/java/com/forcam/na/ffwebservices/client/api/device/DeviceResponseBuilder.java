@@ -22,7 +22,7 @@ import com.forcam.na.ffwebservices.model.device.DevicePropertiesWSModel;
 import com.forcam.na.ffwebservices.model.device.DeviceRecordedTimeSeriesCollectionPropertiesWSModel;
 import com.forcam.na.ffwebservices.model.device.DeviceResponse;
 import com.forcam.na.ffwebservices.model.literal.LiteralPropertiesWSModel;
-import org.apache.commons.collections.MapUtils;
+import org.apache.commons.collections4.MapUtils;
 
 import javax.inject.Inject;
 import java.util.List;
